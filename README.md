@@ -12,6 +12,6 @@ I'm **jasonshu1229**, an undergraduate student at THU.
 - 🤔 Personal Website at [书豪的前端世界](https://www.jasonshu1229.cn/)
 - 💬 juejin at [时光屋小豪](https://juejin.cn/user/2700056289091101)
 
----
+<!-- --- -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasonshu1229&repo=big-react)](https://github.com/jasonshu1229/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasonshu1229&repo=big-react)](https://github.com/jasonshu1229/github-readme-stats) -->
