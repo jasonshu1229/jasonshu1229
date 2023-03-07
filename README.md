@@ -1,7 +1,7 @@
 
 ## Hey, jasonshu1229 here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jasonshu1229&show_icons=true&theme=dark">](https://metrics.lecoq.io/jasonshu1229#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jasonshu1229&show_icons=true&theme=dark">](https://metrics.lecoq.io/jasonshu1229#gh-light-mode-only)
 
 I'm **jasonshu1229**, an undergraduate student at THU.
 
